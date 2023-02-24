@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://digitalbranduniversity.github.io/csb-h9526b/static/css/main.98cff5b1.chunk.css",
+    "main.js": "https://digitalbranduniversity.github.io/csb-h9526b/static/js/main.b3347ed8.chunk.js",
+    "main.js.map": "https://digitalbranduniversity.github.io/csb-h9526b/static/js/main.b3347ed8.chunk.js.map",
+    "runtime-main.js": "https://digitalbranduniversity.github.io/csb-h9526b/static/js/runtime-main.36175bb2.js",
+    "runtime-main.js.map": "https://digitalbranduniversity.github.io/csb-h9526b/static/js/runtime-main.36175bb2.js.map",
+    "static/js/2.6dc9c94b.chunk.js": "https://digitalbranduniversity.github.io/csb-h9526b/static/js/2.6dc9c94b.chunk.js",
+    "static/js/2.6dc9c94b.chunk.js.map": "https://digitalbranduniversity.github.io/csb-h9526b/static/js/2.6dc9c94b.chunk.js.map",
+    "index.html": "https://digitalbranduniversity.github.io/csb-h9526b/index.html",
+    "static/css/main.98cff5b1.chunk.css.map": "https://digitalbranduniversity.github.io/csb-h9526b/static/css/main.98cff5b1.chunk.css.map",
+    "static/js/2.6dc9c94b.chunk.js.LICENSE.txt": "https://digitalbranduniversity.github.io/csb-h9526b/static/js/2.6dc9c94b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36175bb2.js",
+    "static/js/2.6dc9c94b.chunk.js",
+    "static/css/main.98cff5b1.chunk.css",
+    "static/js/main.b3347ed8.chunk.js"
+  ]
+}
